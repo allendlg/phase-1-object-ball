@@ -1,5 +1,5 @@
 
-const gameObject = () => {
+   const gameObject = () => {
     return {
         home: {
             teamName: 'Brooklyn Nets',
